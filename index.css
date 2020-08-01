@@ -2,7 +2,7 @@ body {
   font-family: sans-serif;
   margin: 0;
   padding: 0;
-    background-image: "girlheader";
+  background-image: url("girlheader.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
