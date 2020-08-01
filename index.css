@@ -7,15 +7,12 @@ body {
   background-attachment: fixed;
 }
 .header {
-  background-color: white;
   padding: 0 .5em;
 }
 .footer {
-  background-color: white;
   padding: 0 .5em;
 }
 .main {
-  background-color: #fff8d8;
   padding: 1em;
 }
 h1 {
